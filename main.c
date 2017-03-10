@@ -3,6 +3,7 @@
 
 int main(void)
 {
-	printf("premier ficheir depot 42"):
-	return
+	printf("premier ficheir depot 42");
+	printf("Modif");
+	return 0;
 }
