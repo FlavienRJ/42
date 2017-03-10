@@ -4,5 +4,5 @@
 int main(void)
 {
 	printf("premier ficheir depot 42"):
-	return
+	return;
 }
